@@ -1,9 +1,5 @@
 # Ex04 Places Around Me
-<<<<<<< HEAD
-## Date: 
-=======
 ## Date: 24.04.2025
->>>>>>> cffd959 (Success)
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -29,18 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-<<<<<<< HEAD
 
-
-## OUTPUT
-
-
-
-
-
-
-
-=======
 ```
 Soka Ikeda College.html
 
@@ -100,6 +85,6 @@ Ayappan Temple.html
 ![alt text](temple.png)
 ![alt text](college.png)
 ![alt text](mapp.png)
->>>>>>> cffd959 (Success)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
